@@ -1,2 +1,2 @@
 # gemini-clone
-a gemini-clone using gemini api
+a gemini-clone using react and gemini api
